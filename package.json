@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "auomação de testes com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anselmo santos",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.13.0",
+    "mocca": "^1.0.3",
+    "mocha": "^10.2.0"
+  }
+}
